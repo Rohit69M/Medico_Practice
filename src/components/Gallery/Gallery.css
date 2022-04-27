@@ -1,0 +1,44 @@
+.Gallery_Container {
+  padding: 70px;
+  text-align: center;
+}
+.Gallery_underline {
+  margin-top: 20px;
+  height: 3px;
+  width: 60px;
+  background-color: #3fbbc0;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.Gallery_Container h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.Gallery_desc {
+  padding: 40px 0px 10px 0px;
+  color: #444444;
+}
+.Gallery_Pictures {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 60px 0px 10px 0px;
+}
+.Gallery_Pictures img {
+  width: 207px;
+  height: 155px;
+}
+
+.testimonial_image_dots {
+  margin-top: 50px;
+}
+.dot_testimonial {
+  display: inline-block;
+  height: 12px;
+  width: 12px;
+  border-radius: 50px;
+  background-color: #3fbbc0;
+  margin: 0px 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.facility_container {
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 80px;
+}
+.facility_details {
+  background-color: white;
+  width: 250px;
+  padding: 25px;
+  box-shadow: 1px 1px 27px 8px rgb(247, 244, 244);
+  border-radius: 5px;
+}
+.icon_facility {
+  fill: #3fbbc0;
+  width: 52px;
+  height: 52px;
+}
+.facility_details h3 {
+  padding: 10px 0px;
+  color: #111;
+}
+.facility_details p {
+  font-size: 15px;
+  line-height: 28px;
+}

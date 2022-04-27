@@ -1,0 +1,54 @@
+.AboutUs_Container {
+  text-align: center;
+  position: relative;
+}
+.AboutUs_Container h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.AboutUs_Underline {
+  margin-top: 20px;
+  height: 3px;
+  width: 60px;
+  background-color: #3fbbc0;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.AboutUs_description {
+  margin-top: 45px;
+  font-style: italic;
+}
+.About_Us {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  padding: 20px;
+}
+.About_Us img {
+  width: 45%;
+}
+.About_Us_Details h1 {
+  font-size: 26px;
+  font-weight: bolder;
+}
+.About_checkIcon {
+  fill: #3fbbc0;
+  margin-right: 10px;
+}
+.about_list {
+  list-style: none;
+  padding: 20px;
+}
+.about_list li {
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px 0px;
+}
+
+.About_details_last {
+  padding: 0px 20px;
+  font-style: normal;
+  text-align: justify;
+}

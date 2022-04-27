@@ -1,0 +1,36 @@
+.About3_container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 90px;
+}
+
+.About3_left {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 0px;
+}
+.About3_Right_img img {
+  height: 481px;
+  width: 571px;
+  margin-left: 5px;
+}
+
+.About3_left_details {
+  margin-left: 15px;
+  margin-top: 8px;
+}
+.About3_left_icons {
+  font-size: 64px;
+  fill: #3fbbc0;
+  margin-left: 13px;
+}
+.About3_left_details h4 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.About3_left_details p {
+  margin-top: 10px;
+  color: #848484;
+  padding-right: 16px;
+}

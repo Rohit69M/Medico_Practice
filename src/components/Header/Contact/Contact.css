@@ -1,0 +1,18 @@
+.contact_section {
+  background-color: #3fbbc0;
+  padding: 0px 80px;
+  display: flex;
+  height: 35px;
+  justify-content: space-between;
+  align-items: center;
+  font-size: large;
+}
+.contact_section_clock,
+.contact_section_phone {
+  position: relative;
+  top: 3px;
+  fill: white;
+}
+.contact_section p {
+  color: white;
+}

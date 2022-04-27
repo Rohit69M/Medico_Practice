@@ -1,0 +1,53 @@
+.Services2_Container {
+  padding: 70px;
+  background-color: #f7fcfc;
+  text-align: center;
+}
+.Services2_underline {
+  margin-top: 20px;
+  height: 3px;
+  width: 60px;
+  background-color: #3fbbc0;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
+.Services2_Container h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+.Services2_Container p {
+  padding: 40px 0px 10px 0px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin: 25px 0px;
+  width: 100%;
+}
+
+.Services2_Form input,
+select {
+  display: inline-block;
+  padding: 10px 10px 10px 5px;
+  width: 355px;
+}
+.Services2_Form {
+  margin: 5px 0px;
+}
+textarea {
+  width: 704%;
+  height: 150px;
+}
+.btn_submit {
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 10px 30px;
+  border-radius: 50px;
+  background-color: #3fbbc0;
+  color: white;
+  font-size: 15px;
+}

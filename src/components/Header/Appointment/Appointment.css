@@ -1,0 +1,33 @@
+.Appointment_Container {
+  background-color: #3fbbc0;
+  padding: 60px 40px;
+  text-align: center;
+}
+
+.Appointment_Container h1 {
+  color: white;
+  padding: 10px 0px;
+  font-size: 30px;
+}
+
+.Appointment_Container p {
+  color: white;
+  padding: 10px 0px;
+}
+
+.btn_appointment {
+  margin-top: 10px;
+  border: none;
+  color: white;
+  background: transparent;
+  border: 2px solid white;
+  font-size: 15px;
+  font-weight: bolder;
+  padding: 10px 40px;
+  border-radius: 50px;
+}
+
+.btn_appointment:hover {
+  background: white;
+  color: #3fbbc0;
+}
